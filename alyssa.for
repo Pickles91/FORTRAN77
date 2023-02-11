@@ -11,9 +11,9 @@ c
 c  Author:
 c
 c    Stephan Sommer
-!    This is a comment
+C    This is a comment
 
-      write ( *, '(a)' ) '  Hello, Alyssa!'
+      write ( *, '(a)' ) '  Hello, Alyssa!'    ! <-- This is a comment as well.
       write ( *, '(a)' ) ' I cant wait to kiss you again!! '
 
       stop
