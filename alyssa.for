@@ -13,6 +13,8 @@ c
 c    Stephan Sommer
 C    This is a comment
 
+      implicit none
+
       write ( *, '(a)' ) '  Hello, Alyssa!'    ! <-- This is a comment as well.
       write ( *, '(a)' ) ' I cant wait to kiss you again!! '
 
